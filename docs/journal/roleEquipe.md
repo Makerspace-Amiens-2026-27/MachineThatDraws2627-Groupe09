@@ -8,7 +8,7 @@ title: rôles de l'équipe
 
 Marwane : électronique , Programmation , câblage , test et validation de carte ...
 
-Lilo : [à définir]
+Lilo : Modélisation 3D 
 
 Adrien :[à définir]
 
