@@ -10,7 +10,7 @@ title: Équipe et rôles
 
 | Membre | Formation | Compte GitHub |
 |---|---|---|
-| Étudiant 1 | Mécatronique | [@etudiant1](https://github.com/etudiant1) |
+| Étudiant 1 | electronique | [@etudiant1](https://github.com/etudiant1) |
 | Étudiant 2 | Mécatronique | [@etudiant2](https://github.com/etudiant2) |
 | Étudiant 3 | Mécatronique | [@etudiant3](https://github.com/etudiant3) |
 | Étudiant 4 | Mécatronique | [@etudiant4](https://github.com/etudiant4) |
