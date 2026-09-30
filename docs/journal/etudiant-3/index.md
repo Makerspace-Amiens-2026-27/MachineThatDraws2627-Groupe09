@@ -7,4 +7,4 @@ has_children: true
 
 # Étudiant 3
 
-Ce dossier regroupe les séances de travail de l'étudiant 3 pour le projet Machine That Draws.
+j'ai préparé le workspace vscode et git hub de chaque membre de l'equipe 9 
