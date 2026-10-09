@@ -19,10 +19,10 @@ title: Équipe et rôles
 
 | Rôle | Responsable | Backup | Ce qu'il couvre |
 |---|---|---|---|
-| Mécanique / CAO | Étudiant 2 | Étudiant 3 | Conception, impression, assemblage |
+| Mécanique / CAO | Lilo MAROUF | Étudiant 3 | Conception, impression, assemblage |
 | Électronique | Étudiant 3 | Étudiant 4 | Schéma, câblage, PCB |
-| Logiciel / firmware | Étudiant 4 | Étudiant 1 | Code embarqué, tests logiciels |
-| Coordination documentation | Étudiant 1 | Étudiant 2 | Cohérence du site, structure, relecture finale |
+| Logiciel / firmware | Étudiant 4 | Marwane | Code embarqué, tests logiciels |
+| Coordination documentation | Marwane | Lilo | Cohérence du site, structure, relecture finale |
 | Coordination / planning | Étudiant 1 | Étudiant 3 | Suivi des délais, animation des réunions |
 
 ## Fonctionnement
