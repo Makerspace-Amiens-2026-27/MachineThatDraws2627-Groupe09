@@ -11,7 +11,7 @@ title: Équipe et rôles
 | Membre | Formation | Compte GitHub |
 |---|---|---|
 | Marwane | electronique | [@MarwaneHammouchi](https://github.com/Marwane) |
-| Lilo | design 3D et impression | [@ChakatStarchaser](https://github.com/ChakatStarchaser) |
+| Lilo | design 3D et impression | [@LiloMAROUF](https://github.com/ChakatStarchaser) |
 | Étudiant 3 | Mécatronique | [@etudiant3](https://github.com/etudiant3) |
 | Étudiant 4 | Mécatronique | [@etudiant4](https://github.com/etudiant4) |
 
