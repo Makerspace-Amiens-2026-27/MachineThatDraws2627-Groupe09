@@ -10,4 +10,4 @@ has_children: true
 Séance du 25/09/26:
 J'ai préparé le workspace VS Code et GitHub de chaque membre de l'équipe 9 
 
-séance du 09/10/26:
+séance du 09/10/26: réparation des push car github est méchant
