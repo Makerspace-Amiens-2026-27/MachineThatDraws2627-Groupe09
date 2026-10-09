@@ -33,7 +33,7 @@ Décrivez ici en quelques lignes l'objectif de votre projet. Quel est son but ?
 
 ## Le projet en 3D
 
-{% include model3d.html src="assets/models/Otto.glb" alt="Modèle 3D du robot Otto" %}
+{% include model3d.html src="assets/models/Machine That Draws.glb" alt="Modèle 3D de la machine qui dessine" %}
 
 {: .a_modifier }
 > Exportez votre assemblage au format **GLB** (glTF binaire) depuis Onshape
