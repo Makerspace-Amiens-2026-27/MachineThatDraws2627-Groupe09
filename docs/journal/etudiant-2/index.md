@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Étudiant 2
+title: Lilo MAROUF
 parent: Journal de bord
 has_children: true
 ---
 
-# Étudiant 2
+# Lilo MAROUF
 
-{: .a_modifier }
-> Remplacez « Étudiant 2 » par votre prénom et votre nom, **dans le titre de la page
-> (`title:`) et dans le `parent:` de chacune de vos séances** : c'est ce qui
-> relie vos séances à votre page.
+Séance du 25/09/26:
+J'ai préparé le workspace VS Code et GitHub de chaque membre de l'équipe 9 
+
+séance du 09/10/26:
