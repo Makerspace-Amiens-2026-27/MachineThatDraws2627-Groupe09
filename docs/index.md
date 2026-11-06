@@ -35,6 +35,7 @@ Décrivez ici en quelques lignes l'objectif de votre projet. Quel est son but ?
 
 {% include model3d.html src="assets/models/Machine That Draws.glb" alt="Modèle 3D de la machine qui dessine" %}
 
+
 {: .a_modifier }
 > Exportez votre assemblage au format **GLB** (glTF binaire) depuis Onshape
 > (clic droit sur l'onglet de l'assemblage > Exporter), placez-le dans `docs/assets/models/`,
