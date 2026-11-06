@@ -12,7 +12,7 @@ title: Équipe et rôles
 |---|---|---|
 | Marwane | logiciel /firmware / super vision electronique | [@MarwaneHammouchi](https://github.com/Marwane) |
 | Lilo | design 3D et impression | [@LiloMAROUF](https://github.com/ChakatStarchaser) |
-| Abdoulaye | Mécatronique | [@etudiant3](https://github.com/etudiant3) |
+| Abdoulaye | Mécatronique | [@Abdelnour-abdoulaye](https://github.com/Abdelnour-abdoulaye)) |
 | Adrien | Electronique | [@etudiant4](https://github.com/etudiant4) |
 
 ## Rôles
