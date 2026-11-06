@@ -10,9 +10,9 @@ title: Équipe et rôles
 
 | Membre | Formation | Compte GitHub |
 |---|---|---|
-| Marwane | electronique | [@MarwaneHammouchi](https://github.com/Marwane) |
+| Marwane | logiciel /firmware / super vision electronique | [@MarwaneHammouchi](https://github.com/Marwane) |
 | Lilo | design 3D et impression | [@LiloMAROUF](https://github.com/ChakatStarchaser) |
-| Étudiant 3 | Mécatronique | [@etudiant3](https://github.com/etudiant3) |
+| Abdoulaye | Mécatronique | [@etudiant3](https://github.com/etudiant3) |
 | Étudiant 4 | Mécatronique | [@etudiant4](https://github.com/etudiant4) |
 
 ## Rôles
@@ -20,10 +20,10 @@ title: Équipe et rôles
 | Rôle | Responsable | Backup | Ce qu'il couvre |
 |---|---|---|---|
 | Mécanique / CAO | Lilo MAROUF | Étudiant 3 | Conception, impression, assemblage |
-| Électronique | Étudiant 3 | Étudiant 4 | Schéma, câblage, PCB |
-| Logiciel / firmware | Étudiant 4 | Marwane | Code embarqué, tests logiciels |
+| Électronique | Étudiant 4 | Marwane | Schéma, câblage, PCB |
+| Logiciel / firmware |  Marwane | Code embarqué, tests logiciels |
 | Coordination documentation | Marwane | Lilo | Cohérence du site, structure, relecture finale |
-| Coordination / planning | Étudiant 1 | Étudiant 3 | Suivi des délais, animation des réunions |
+| Coordination / planning | Marwane| Lilo | Suivi des délais, animation des réunions |
 
 ## Fonctionnement
 
